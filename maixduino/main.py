@@ -64,9 +64,6 @@ sensor.set_auto_whitebal(True)
 
 sensor.skip_frames(time=3000)
 
-# После настройки фиксируем параметры,
-# чтобы цвет не менялся во время распознавания
-
 sensor.set_auto_gain(False)
 sensor.set_auto_whitebal(False)
 
