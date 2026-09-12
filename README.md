@@ -55,9 +55,11 @@ To program the boards, I used MaixPy IDE for the Maixduino and STM32CubeIDE for 
 
 ## System Architecture
 
-link
+[System Architecture](system-architecture)
 
 ## 3D Parts
+
+I also designed my own 3D pan-tilt mechanism in Fusion 360. Here are the STL files:
 
 [3D Printable Parts](cad/3D-prints/)
 
