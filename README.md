@@ -43,7 +43,7 @@ To program the boards, I used MaixPy IDE for the Maixduino and STM32CubeIDE for 
 - PWM generation
 - Pan and tilt servo control
 
-[STM32 Source Code](stm32/main.c)
+[STM32 Source Code](stm32-nucleo/main.c)
 
 ## Servo Control
 
