@@ -22,11 +22,12 @@ The system detects a red object using an OV2640 camera, calculates its position 
 
 ![Connection Diagram](hardware/connection-diagram.png)
 
-## Software
+## Firmware
 
-### Maixduino (MaixPy IDE)
+To program the boards, I used MaixPy IDE for the Maixduino and STM32CubeIDE for the NUCLEO-F446RE.
 
-Handles:
+
+### Maixduino handles:
 - Camera input
 - Red object detection
 - Object center calculation
@@ -35,9 +36,7 @@ Handles:
 
 [MaixPy Source Code](maixduino/main.py)
 
-### STM32 NUCLEO-F446RE (STM32CubeIDE)
-
-Handles:
+### STM32 NUCLEO-F446RE handles:
 - UART reception
 - Angle parsing
 - PWM generation
