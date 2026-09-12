@@ -55,7 +55,7 @@ To program the boards, I used MaixPy IDE for the Maixduino and STM32CubeIDE for 
 
 ## System Architecture
 
-[System Architecture](system-architecture.PNG)
+[System Architecture](hardware/system-architecture.PNG)
 
 ## 3D Parts
 
