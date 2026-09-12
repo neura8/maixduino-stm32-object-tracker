@@ -67,7 +67,7 @@ I also designed my own 3D pan-tilt mechanism in Fusion 360. Here are the STL fil
 
 ## Documentation
 
-[Project Presentation (PDF)](docs/project-presentation.pdf)
+[Project Presentation (PDF)](docs/Edge Vision Pan-Tilt Tracker Eng.pdf)
 
 ## Result
 
