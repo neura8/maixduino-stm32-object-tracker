@@ -18,11 +18,11 @@ The system detects a red object using an OV2640 camera, calculates its position 
 
 ## Hardware
 
-[Components List](hardware/components-list.md)
+[Components List](components-list.md)
 
 ### Connection Diagram
 
-<img src="hardware/connection-diagram.png" alt="Connection Diagram" width="700">
+<img src="media/images/connection-diagram.png" alt="Connection Diagram" width="700">
 
 ## Firmware
 
@@ -57,7 +57,7 @@ To program the boards, I used MaixPy IDE for the Maixduino and STM32CubeIDE for 
 
 ## System Architecture
 
-<img src="hardware/system-architecture.PNG" alt="System Architecture" width="400">
+<img src="media/images/system-architecture.PNG" alt="System Architecture" width="400">
 
 ## 3D Parts
 
@@ -71,4 +71,4 @@ I also designed my own 3D pan-tilt mechanism in Fusion 360. Here are the STL fil
 
 ## Result
 
-link video
+[Video demo](media/video/result.mov)
