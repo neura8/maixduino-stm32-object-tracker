@@ -22,7 +22,7 @@ The system detects a red object using an OV2640 camera, calculates its position 
 
 ### Connection Diagram
 
-<img src="media/images/connection-diagram.png" alt="Connection Diagram" width="700">
+<img src="media/images/connection-diagram.PNG" alt="Connection Diagram" width="700">
 
 ## Firmware
 
