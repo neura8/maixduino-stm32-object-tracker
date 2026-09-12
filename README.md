@@ -1,7 +1,7 @@
 # maixduino-stm32-object-tracker
 Embedded real-time object tracking with Maixduino, STM32 NUCLEO-F446RE, UART, and PWM servo control.
 
-<img src="images/IMG_7781.jpg" alt="Main photo" width="400">
+<img src="media/images/IMG_7781.jpg" alt="Main photo" width="400">
 
 The system detects a red object using an OV2640 camera, calculates its position relative to the center of the frame, and automatically rotates the camera using two MG90S servo motors.
 
