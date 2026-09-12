@@ -16,7 +16,7 @@ The system detects a red object using an OV2640 camera, calculates its position 
 
 ## Hardware
 
-[Components List](hardware/components.md)
+[Components List](hardware/components-list.md)
 
 ### Connection Diagram
 
@@ -25,7 +25,6 @@ The system detects a red object using an OV2640 camera, calculates its position 
 ## Firmware
 
 To program the boards, I used MaixPy IDE for the Maixduino and STM32CubeIDE for the NUCLEO-F446RE.
-
 
 ### Maixduino handles:
 - Camera input
@@ -60,7 +59,7 @@ link
 
 ## 3D Parts
 
-[3D Printable Parts](3D-prints/)
+[3D Printable Parts](cad/3D-prints/)
 
 ## Documentation
 
