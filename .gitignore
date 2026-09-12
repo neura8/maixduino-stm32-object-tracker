@@ -216,3 +216,19 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# macOS
+.DS_Store
+
+# STM32CubeIDE build files
+Debug/
+Release/
+build/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
